@@ -1,0 +1,16 @@
+{
+  "ur actually so weird for making a mod checker": "Malachi Menu Reborn",
+  "y u lookin in here": "Malachi Menu Reborn",
+  "haze_": "Haze",
+  "juul_": "Juul",
+  "arrakis": "Arrakis",
+  "sonytracker": "Sony Tracker (player tracker)",
+  "chqser.lol": "Chqser",
+  "spankyvrc": "SpankyVRC",
+  "anarchy anarchy anarchy": "Anarchy Spam Menu",
+  "stop checking my mods": "Anti-Checker Taunt",
+  "skidded menu": "Skidded Menu",
+  "starlight mod menu": "Starlight Mod Menu",
+  "gemstone. version": "Gemstone",
+  "quantummenu": "Quantum Menu"
+}
